@@ -84,6 +84,9 @@ This is a learning project for practicing collaborative development workflows. F
 
 This project is for educational purposes.
 
+## Project Description
+A working company website for TechFlow Solutions, a startup that builds custom websites for small buisnesses. The site includes a hero section, an about section, team member profiles and a contact form.
+
 ---
 
 *Built with ❤️ by the TechFlow Solutions team*
